@@ -1,7 +1,7 @@
 # Decompile by RARE TOOL
 # DECOMPILE SUCCESSFULLY
 #NAAM YAAD RAKHNA
-#Naseer_Khan
+#JAMALI
 import os, time, requests, datetime, random,multiprocessing.pool, getpass, json, threading, sys, uuid, shutil, zlib, base64
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
