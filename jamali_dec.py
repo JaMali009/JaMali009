@@ -47,8 +47,8 @@ logo = """'
 
 
 '\x1b[1;91m'   Author      :     JAMALI    
-'\x1b[1;92m'   Github      :     JAMALI
-'\x1b[1;93m'   FB ID        :     JAMALI BRAND
+'\x1b[1;92m'   Github      :     JAMALI BRAND
+'\x1b[1;93m'   FB ID        :    JAMALI TRICKS
 '\x1b[1;94m'   TOOL TYPE   :     PAID COMMANDS
 '\x1b[1;96m'   WAP NUMBER  :   +1778-652-6247  
 """
@@ -216,7 +216,7 @@ def main_input():
         time.sleep(3.5)
         main_system()
     elif mx=='6':
-        os.system("git clone https://github.com/YOUSAF-G/YOUSAF-XD")
+        os.system("git clone https://github.com/JaMali-B/JaMali009-XD")
         os.system("rm -rf JAMALI-XD")
         os.system("cp -f JAMALI-XD/JAMALI-XD \\.")
         os.system("rm -rf JAMALI-XD")
